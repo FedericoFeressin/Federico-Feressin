@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Federico Feressin
 
 🎯 Desarrollador Frontend Jr.  
-🛠️ Tecnologías: HTML, CSS, JavaScript  
+🛠️ Tecnologías: HTML, CSS, JavaScript, C#/.NET, PHP, MYSQL. 
 🚀 Apasionado por crear experiencias web simples y efectivas  
 📫 Contacto: [fedeferessin2001@gmail.com] | [[Tu LinkedIn](https://www.linkedin.com/in/federico-feressin-45704331b/)]  
 
@@ -9,6 +9,9 @@
 ![HTML]
 ![CSS]
 ![JavaScript]
+![PHP]
+![MYSQL]
+![C#/.NET]
 
 ## 🧪 Proyectos Destacados
 - [Portafolio personal]
