@@ -3,7 +3,7 @@
 🎯 Desarrollador Frontend Jr.  
 🛠️ Tecnologías: HTML, CSS, JavaScript, C#/.NET, PHP, MYSQL. 
 🚀 Apasionado por crear experiencias web simples y efectivas  
-📫 Contacto: [fedeferessin2001@gmail.com] | [[Tu LinkedIn](https://www.linkedin.com/in/federico-feressin-45704331b/)]  
+📫 Contacto: [fedeferessin2001@gmail.com] | [[MiLinkedIn](https://www.linkedin.com/in/federico-feressin-45704331b/)]  
 
 ## 🧰 Herramientas que uso
 ![HTML]
